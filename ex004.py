@@ -1,0 +1,6 @@
+tipo = input('digite algo: ')
+print('O tipo primitico dessa variavel é ', type(tipo))
+print('É numérico? ', tipo.isnumeric())
+print('É alfanumérico?', tipo.isalpha())
+print('Só tem espacos? ', tipo.isspace())
+print('Só letras minusculas? ', tipo.islower())

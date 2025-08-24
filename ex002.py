@@ -1,6 +1,6 @@
 # Receba dois valore e realize a soma
 
-num1 = int(input('digite um valor inteiro: ')) 
+num1 = int(input('digite um valor inteiro: '))
 num2 = int(input('digite outro valor: '))
 sum = num1 + num2
 
