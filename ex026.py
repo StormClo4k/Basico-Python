@@ -5,5 +5,5 @@
 frase = str(input('Digite uam frase: ')).strip()
 
 print('A letra A aparece {} vezes na frase.'.format(frase.lower().count('a', 0, len(frase))))
-print('A primeira letra A aparece na posicao {}'.format(frase.lower().find('a') + 1))
-print('A ultima letra A aparece na posicao {}'.format(frase.lower().rfind('a') + 1))
+print('A primeira letra A aparece na posicao {}'.format(frase.lower().find('a')))
+print('A ultima letra A aparece na posicao {}'.format(frase.lower().rfind('a')))
