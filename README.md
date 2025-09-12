@@ -1,6 +1,6 @@
 # Diretório de Exercícios do Curso de Python
 
-Este diretório é destinado aos exercícios do curso **Python 3 - Mundo 1**, oferecido pela plataforma Curso em Vídeo. Aqui você encontrará os códigos e soluções desenvolvidos durante o aprendizado dos conceitos fundamentais de Python, incluindo estruturas condicionais, loops, variáveis e muito mais.
+Este diretório é destinado aos exercícios do curso **Python 3 - Mundo 1, Mundo 2 e Mundo 3**, oferecido pela plataforma Curso em Vídeo. Aqui você encontrará os códigos e soluções desenvolvidos durante o aprendizado dos conceitos fundamentais de Python, incluindo estruturas condicionais, loops, variáveis e muito mais.
 
 ### Objetivo
 
